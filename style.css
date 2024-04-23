@@ -3,11 +3,11 @@
 body {
     min-height: 100vh;
     background-color: #f8f8ff;
-}
+    }
 
 .menu-navegacao {
     height: 65px;
-    background-color: #38393C;
+    background-color: #38393C;    
 }
 
 .menu-navegacao>ul {
@@ -15,6 +15,7 @@ body {
     display: flex;
     justify-content: flex-end;
     align-items: stretch;
+    
 }
 
 /* .menu-navegacao li {
